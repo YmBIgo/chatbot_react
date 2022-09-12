@@ -1,0 +1,40 @@
+.chat-result-area {
+	width: 90%;
+	margin: 20px 5%;
+}
+.system-user {
+	background-color: pink;
+	margin-left: 10%;
+}
+.bot-user {
+	background-color: #47ea7e;
+}
+.user-user {
+	background-color: grey;
+	color: white;
+	margin-left: 20%;
+}
+.chat-content {
+	padding: 10px;
+	border-radius: 30px;
+	margin-bottom: 20px;
+	width: 80%;
+}
+
+.chat-input-area {
+	margin-top: 30px;
+}
+
+.input-form {
+	width: 70%;
+	border: 1px solid rgba(100, 100, 100, .6);
+	padding: 20px;
+	border-radius: 10px;
+}
+.input-button {
+	width: 15%;
+	margin-left: 20px;
+	height: 30px;
+	background-color: #007bff;
+	color: white;
+}
